@@ -41,6 +41,11 @@ var toConsider = [{
   "votes": ["tizianozonta", "stasm", "matisnape"],
   'wiki' : 'Black Mirror (TV series)'
 }, {
+  "title": "Blue Mountain State",
+  "imdb": "tt1344204",
+  "stillWatching": 0,
+  "votes": ["jojothebandit"]
+}, {
   "title": "Burn Notice",
   "imdb": "tt0810788",
   "stillWatching": 0,
@@ -66,6 +71,11 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["alexpnt"]
 }, {
+  "title": "Curb Your Enthusiasm",
+  "imdb": "tt0264235",
+  "stillWatching": 0,
+  "votes": ["jojothebandit"]
+}, {
   "title": "Cowboy Bebop",
   "imdb": "tt0213338",
   "stillWatching": 0,
@@ -76,6 +86,11 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["igorw", "guamaso", "doogi"]
 }, {
+  "title": "Eastbound and down",
+  "imdb": "tt0866442",
+  "stillWatching": 0,
+  "votes": ["jojothebandit"]
+}, {
   "title": "Firefly",
   "imdb": "tt0303461",
   "stillWatching": 0,
@@ -84,7 +99,12 @@ var toConsider = [{
   "title": "It's Always Sunny in Philadelphia",
   "imdb": "tt0472954",
   "stillWatching": 1,
-  "votes": ["gstepniewski", "ryanburgess", "stkrzysiak"]
+  "votes": ["gstepniewski", "ryanburgess", "stkrzysiak","jojothebandit"]
+}, {
+  "title": "Louie",
+  "imdb": "tt1492966",
+  "stillWatching": 0,
+  "votes": ["jojothebandit"]
 }, {
   "title": "My Name Is Earl",
   "imdb": "tt0460091",
@@ -105,7 +125,7 @@ var toConsider = [{
   "title": "Parks and Recreation",
   "imdb": "tt1266020",
   "stillWatching": 1,
-  "votes": ["kamilogorek", "gstepniewski", "ryanburgess"]
+  "votes": ["kamilogorek", "gstepniewski", "ryanburgess", "jojothebandit"]
 }, {
   "title": "Peaky Blinders",
   "imdb": "tt2442560",
@@ -129,6 +149,11 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["stasm"]
 }, {
+  "title": "Skins",
+  "imdb": "tt0840196",
+  "stillWatching": 0,
+  "votes": ["jojothebandit"]
+}, , {
   "title": "Sons of Anarchy",
   "imdb": "tt1124373",
   "stillWatching": 1,
